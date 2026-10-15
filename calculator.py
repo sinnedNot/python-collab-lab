@@ -3,3 +3,7 @@ def calculator():
     '''
     Group Number: 8
     '''
+
+def multiply (a, b):
+    return a * b
+    
